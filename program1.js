@@ -15,5 +15,5 @@ function smallestMissingPositiveInteger(nums) {
     }
   return positiveNumbers.size + 1;
 }
-  
+}
   module.exports = smallestMissingPositiveInteger;
